@@ -21,8 +21,9 @@ Welcome to **CodeWrite-2.0**, our web-based HTML, CSS, JavaScript and Markdown e
 - **Download** : Download code on your local computer.
 - **Code snippets** : Create, customize and export codesnippts effortlessly
 ![CodeWrite-2.0 WebSettings](./public/snippet.png)
+![CodeWrite-2.0 WebSettings](./public/snippet2.png)
 - **Share and deploy**: Share your code and make a quick deployment in just few clicks
-
+![CodeWrite-2.0 WebSettings](./public/shared.png)
 
 ## How to Use
 
