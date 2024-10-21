@@ -9,15 +9,18 @@ Welcome to **CodeWrite-2.0**, our web-based HTML, CSS, JavaScript and Markdown e
 ## Features
 
 - **Web Editor**: Edit HTML, CSS, and JavaScript code in a feature-rich code editor.
+- **Multi-language Support**: Run languages like python, clojure, lua, c, rust and many more.
+- ![Codewrite-2.0 Python](./public/python.png)
 - **Markdown Editor**: Edit markdown on the go.
   ![CodeWrite-2.0 Webeditor](./public/mdeditor.png)
 - **Live Preview**: See real-time updates as you type.
-- **Split View**: Visualize your changes with a split view of code and preview.
 - **Tab view**: Show editors as tabs.
 - **Syntax Highlighting**: Code is highlighted for better readability.
 - **Dark Mode**: Enjoy coding in low-light environments.
 - **Multiple Themes**: Customize themes according to your liking.
 ![CodeWrite-2.0 WebSettings](./public/websettings.png)
+- **Split View**: Visualize your changes and identify errors with a split view of code and preview.
+  ![CodeWrite-2.0 C](./public/c.png)
 - **Download** : Download code on your local computer.
 - **Code snippets** : Create, customize and export codesnippts effortlessly
 ![CodeWrite-2.0 WebSettings](./public/snippet.png)
@@ -36,7 +39,6 @@ Welcome to **CodeWrite-2.0**, our web-based HTML, CSS, JavaScript and Markdown e
 
 - **PWA**: Make the core functionality work offline
 - **Collaborative** code editing using websockets
-- **Language Support** code compilation for other languages
 
 ## Star and Contribute
 
