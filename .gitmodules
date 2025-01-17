@@ -1,3 +1,6 @@
 [submodule "CodeWrite-2.0"]
 	path = CodeWrite-2.0
 	url = https://github.com/PrashantGyawali/CodeWrite-2.0
+	branch = main
+	ignore = dirty
+	update = rebase
